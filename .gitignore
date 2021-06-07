@@ -1,3 +1,9 @@
+
+
+#files I want ignored
+climate_analysis - ORIGINAL.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
