@@ -65,10 +65,10 @@ Figure 3 combines Figures 1 and 2 for ease of comparison.
 
 
 ![Fig8: December And June Temperatures](other_resources/08_June_and_December_Precipitation.png)
-[Fig8: December and JuneTemperatures](other_resources/08_June_and_December_Precipitation.png?raw=true "Figure 8: December Temperatures")
+[Fig8: December and June Temperatures](other_resources/08_June_and_December_Precipitation.png?raw=true "Figure 8: June and December Precipitation")
 
 
-Figures 4 and 6 present two additional queries that can be used for further analysis of this dataset: precipitation in June and December, comparable with the temperature analysis conducted.  Figure 7 summarizes the results, which in short indicate that there is de minimis precipitation in both months.  Even the maximum rainfall is small compared to mainland values.  This analysis should be conducted to rule out monsoon effects, both otherwise, both Temperature and precipitation analysis shows that the surf and ice cream shop should be a great investment.
+Figures 4 and 6 present two additional queries that can be used for further analysis of this dataset: precipitation in June and December, comparable with the temperature analysis conducted.  Figure 7 summarizes the results, which in short indicate that there is de minimis precipitation in both months.  Even the maximum rainfall is small compared to mainland values.  This analysis should be conducted for each month to rule out a possible rainy season in off months, but otherwise, both Temperature and precipitation analysis shows that the surf and ice cream shop should be a great investment.
 
 
 
