@@ -2,7 +2,11 @@
 
 #files I want ignored
 climate_analysis - ORIGINAL.ipynb
-
+SurfsUp_Challenge_starter_code.ipynb
+c01_playingwithsqldata.ipynb
+09.README1stdraft.docx
+c02_mapping.ipynb
+c00_climate_analysis.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
