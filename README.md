@@ -40,9 +40,11 @@ Figure 3 combines Figures 1 and 2 for ease of comparison.
 [Fig4: June Precipitation Query](other_resources/04_June_Precipitation_Query.png?raw=true "Figure 4: June Precipitation Query")
 
 
-
 ![Fig5: June Precipitation](other_resources/05_June_Precipitation.png)
 [Fig5: June Precipitation](other_resources/05_June_Precipitation.png?raw=true "Figure 5: June Precipitation")
+
+
+
 
 
 
@@ -52,13 +54,11 @@ Figure 3 combines Figures 1 and 2 for ease of comparison.
 
 
 
-
-
-
-
-
 ![Fig7: December Precipitation](other_resources/07_December_Precipitation.png)
 [Fig7: December Precipitation](other_resources/07_December_Precipitation.png?raw=true "Figure 7: December Precipitation")
+
+
+
 
 
 
